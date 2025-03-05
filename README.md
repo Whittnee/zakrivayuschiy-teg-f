@@ -1,1 +1,1 @@
-https://github.com/Whittnee/zakrivayuschiy-teg-f.git
+https://whittnee.github.io/zakrivayuschiy-teg-f/
